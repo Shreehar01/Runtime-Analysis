@@ -15,6 +15,7 @@ We will analyze runtimes of the aforementioned containers for performing the fol
 7. Reversing
 8. Inserting
 9. Removing Duplicates    
+
 We will measure the runtimes for each of the containers for executing each of the aforementioned functions
 with varying numbers of elements. The number of elements assigned to these containers to measure their
 runtimes will be 2n where n can take positive integers between 1 and 10 inclusive. To be more specific, the
